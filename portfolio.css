@@ -25,7 +25,7 @@
 #intro{
    background-image: url("img/karl-pawlowicz-QUHuwyNgSA0-unsplash.jpg"); 
    background-repeat: no-repeat;
-   height: 700px;
+   height: 750px;
    width: 100%;
    background-position: center;
    background-size: cover;
@@ -67,4 +67,169 @@ a.fa{
     padding-top: 150px;
     color: #fff;
 }
+
+.about-me{
+    padding-bottom: 100px;
+}
+.about-me h2{
+    padding-top: 90px;
+    padding-bottom: 30px;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+ .container{
+     max-width: 650px;
+     
+ }
+#pro_pic{
+    border-radius: 50%;
+    height: 150px;
+    width: 170px;
+    background-size: cover;
+}
+
+.description{
+    padding-top: 50px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+#tl-dr{
+    padding-bottom: 15px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+}
+#tl-dr h3,h5{
+    font-weight: 300;
+    color: gray;
+    font-size: 20px;
+}
+
+.tldr-proc{
+    color: gray;
+    padding: 10px;
+    text-align: center;
+
+}
+.tldr-proc i{
+    padding-bottom: 10px;
+    
+}
+.self{
+    background-color: rgba(136, 124, 124, 0.089);
+    padding: 40px;
+    margin-bottom: 100px;
+}
+
+#services {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #F0F0F0;
+}
+#services h2{
+    text-transform: uppercase;
+    margin: 0 0 30px;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+#services h3 {
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+#services p {
+    font-size: 15px;
+    margin: 0px auto 40px auto;
+    max-width: 80%;
+}
+
+.icon{
+    width: 175px;
+    height: 175px;
+    line-height: 175px;
+    background-color: #00009c;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    display:block;
+    color: #FFF;
+    font-size: 55px;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+    margin: 0 auto 40px;
+}
+
+.icon:hover {
+    -ms-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-transition: all ease .7s;
+    -moz-transition: all ease .7s;
+    transition: all ease .7s;
+}
+
+#experiences{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #fff;
+}
+
+#experiences h2{
+    font-weight: 400;
+    text-transform: uppercase;
+    color: grey;
+    letter-spacing: 3px;
+    font-family: "Lato", sans-serif;
+    padding-bottom: 15px;
+}
+
+#experience p{
+    font-size: 16px;
+    padding-bottom: 40px;
+    max-width: 600px;
+    margin: 0px auto;
+}
+
+
+.skill-section .skill-icon img{
+    width: 55px;
+    height: 75px;
+}
+
+.skills-section h3 {
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0 0 50px;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+
+.col-md-8{
+    padding-left: 90px;
+   
+
+}
+
+.col-md-8 h3{
+    text-transform: uppercase;
+    font-weight: 400;
+    padding-bottom: 30px;
+    
+}
+.col-md-4 h3{
+    text-transform: uppercase;
+    font-weight: 400;
+    padding-bottom: 20px;
+    
+}
+
+
+
+
+
 
